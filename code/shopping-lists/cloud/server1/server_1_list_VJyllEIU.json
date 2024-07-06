@@ -1,0 +1,30 @@
+{
+  "listId": "VJyllEIU",
+  "replicaId": "server_1_list_VJyllEIU.json",
+  "items": {
+    "banana": {
+      "add": 7,
+      "remove": 3
+    },
+    "grape": {
+      "add": 5,
+      "remove": 1
+    },
+    "orange": {
+      "add": 6,
+      "remove": 1
+    },
+    "watermelon": {
+      "add": 6,
+      "remove": 2
+    },
+    "apple": {
+      "add": 4,
+      "remove": 1
+    },
+    "bread": {
+      "add": 11,
+      "remove": 5
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "listId": "Zk0xC46K",
+  "replicaId": "local_client_4000_list_Zk0xC46K.json",
+  "items": {
+    "banana": {
+      "add": 17,
+      "remove": 7
+    },
+    "pera": {
+      "add": 24,
+      "remove": 3
+    }
+  }
+}

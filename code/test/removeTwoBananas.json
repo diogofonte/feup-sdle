@@ -1,0 +1,18 @@
+{
+  "banana": {
+    "add": 4,
+    "remove": 3
+  },
+  "grape": {
+    "add": 5,
+    "remove": 1
+  },
+  "orange": {
+    "add": 6,
+    "remove": 1
+  },
+  "watermelon": {
+    "add": 4,
+    "remove": 2
+  }
+}

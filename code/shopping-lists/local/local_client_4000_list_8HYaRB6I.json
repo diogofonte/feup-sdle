@@ -1,0 +1,18 @@
+{
+  "listId": "8HYaRB6I",
+  "replicaId": "local_client_4000_list_8HYaRB6I.json",
+  "items": {
+    "banana": {
+      "add": 8,
+      "remove": 2
+    },
+    "pera": {
+      "add": 10,
+      "remove": 0
+    },
+    "laranja": {
+      "add": 44,
+      "remove": 9
+    }
+  }
+}

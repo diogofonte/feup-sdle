@@ -1,0 +1,17 @@
+# Dependency directories
+code/node_modules/
+
+# Environment variables file (if you use one)
+.env
+
+# Log files
+src/logs/
+*.log
+
+# Mac OS specific files
+.DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates

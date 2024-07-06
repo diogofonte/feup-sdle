@@ -1,4 +1,4 @@
-# SDLE - Large Scale Distributed Systems 2023/24
+# SDLE - Large Scale Distributed Systems - M.EIC FEUP 2023/24
 
 ## Local-First Shopping List Application
 
